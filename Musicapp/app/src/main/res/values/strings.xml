@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music app</string>
+    <string name="todo">TODO</string>
+    <string name="artist_names">ARTIST NAMES</string>
+    <string name="user_comments">USER COMMENTS</string>
+    <string name="genre">GENRE</string>
+    <string name="song_title">SONG TITLE</string>
+    <string name="exit">exit</string>
+    <string name="next">next</string>
+    <string name="song_details">Song Details</string>
+    <string name="ratings_1_5">RATINGS (1-5)</string>
+</resources>

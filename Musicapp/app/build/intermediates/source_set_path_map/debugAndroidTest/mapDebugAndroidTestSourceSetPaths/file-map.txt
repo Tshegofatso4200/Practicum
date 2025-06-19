@@ -1,0 +1,6 @@
+vcmsa.ci.musicapp.test.app-core-1.6.1-0 C:\Users\lab_services_student\.gradle\caches\8.11.1\transforms\16a59940bbe38049620baef772d6ed96\transformed\core-1.6.1\res
+vcmsa.ci.musicapp.test.app-tracing-1.2.0-1 C:\Users\lab_services_student\.gradle\caches\8.11.1\transforms\b584eacb34b598ce400be6ed64eb2811\transformed\tracing-1.2.0\res
+vcmsa.ci.musicapp.test.app-androidTest-2 C:\Users\lab_services_student\AndroidStudioProjects\Musicapp\app\build\generated\res\resValues\androidTest\debug
+vcmsa.ci.musicapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\lab_services_student\AndroidStudioProjects\Musicapp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+vcmsa.ci.musicapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\lab_services_student\AndroidStudioProjects\Musicapp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+vcmsa.ci.musicapp.test.app-debugAndroidTest-5 C:\Users\lab_services_student\AndroidStudioProjects\Musicapp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,3 @@
+vcmsa.ci.musicapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
